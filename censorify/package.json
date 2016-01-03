@@ -1,0 +1,17 @@
+{
+	"author": "Kangle Yu",
+	"name": "censorify-tom",
+	"version": "0.1.1",
+	"description": "Censors words out of text",
+	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sevolution/node_play"
+	},
+	"keywords":["censor", "words"],
+	"dependencies": {
+	},
+	"engines": {
+		"node": "*"
+	}
+}
